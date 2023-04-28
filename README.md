@@ -2,21 +2,14 @@
 
 ### I'm a Student, Developer, and Learner!
 - 🔭 I’m currently pursuing a Computer Science Degree in Singapore!
-- 🌱 I’m currently learning on FrontEnd Development!
-- ⚡ Fun fact: I am really good at minesweeper!
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-<!-- ## 💻 My Past Projects:
+## 💻 My Past Projects:
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![SpaceInvaderGame](https://img.shields.io/static/v1?label=&message=Space-Invader-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/SpaceInvaderGame) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Tic-Tac-Toe](https://img.shields.io/static/v1?label=&message=Tic-Tac-Toe&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/JS-TikTacToe) [![ChatCord](https://img.shields.io/static/v1?label=&message=ChatCord&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/ChatCord) [![Music-Player](https://img.shields.io/static/v1?label=&message=Music-Player&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay0809/Music-Player) |
-| [![React](https://img.shields.io/static/v1?label=&message=React&color=02ccfe&logo=react&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Blogging-Website](https://img.shields.io/static/v1?label=&message=Blogging-Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/Blogging-Website) [![covid-19-tracker](https://img.shields.io/static/v1?label=&message=COVID-19-Tracker&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/covid-19-tracker) [![AI News App](https://img.shields.io/static/v1?label=&message=AI-News-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/AI-News-App) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![lcoMERNproj](https://img.shields.io/static/v1?label=&message=E-Commerce-Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/lcoMERNproj) |
-| [![C](https://img.shields.io/static/v1?label=&message=C&color=4FA1EF&logo=c&logoColor=FFFFFF)](https://www.programiz.com/c-programming/) | [![C-Personal-Diary](https://img.shields.io/static/v1?label=&message=C-Personal-Diary&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/C-Personal-Diary) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![web-portfolio](https://img.shields.io/static/v1?label=&message=Web-Portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/web-portfolio) [![StartUp-Website](https://img.shields.io/static/v1?label=&message=StartUp-Website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay0809/CodeFreaks) | -->
+| [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |[![MoneyMojoGame](https://img.shields.io/static/v1?label=&message=Money-Mojo-Game&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ReDesignTeam5/Frontend) [![TwoTyredApp](https://img.shields.io/static/v1?label=&message=Two-Tyred-App&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/SWE-Fantastic-Four/TwoTyred) |
+| [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/) | [![Moblima](https://img.shields.io/static/v1?label=&message=Moblima&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DarkDestiny26/SC2002-MOBLIMA) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
 
 ## 💻 My Tech Stack:
 
